@@ -5,3 +5,11 @@
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
+h1, h3, h4, h5, p{
+  color: red;
+  background-color: aqua;
+}
+.pra1{
+  background-color: beige;
+  color: brown;
+}

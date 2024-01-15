@@ -24,3 +24,15 @@ li>a{
 a{
   color: darkgreen;
 }
+#cn{
+  color: black;
+}
+#hc{
+  color: #ee3e80;
+}
+span{  
+  background-color: rgb(169, 217, 245);
+}
+#rgb{
+  color: rgb(300, 50, 245);
+}
